@@ -1,0 +1,13 @@
+package com.tst.conteiner.crud;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CrudContainerApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(CrudContainerApplication.class, args);
+    }
+
+}
